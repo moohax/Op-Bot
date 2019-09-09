@@ -1,4 +1,4 @@
-# Snacker
+# Op bot
 String metrics + RL for finding privs. 
 
 ### Quick Start
