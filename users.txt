@@ -1,0 +1,6 @@
+will
+sqlsvc
+nexus
+swadmin
+adfs
+backup

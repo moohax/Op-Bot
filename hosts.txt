@@ -1,0 +1,6 @@
+solarwinds
+swhost01
+usbackup
+nexus
+clousql
+localhost
